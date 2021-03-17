@@ -1,6 +1,6 @@
 # Online Store
 
-![screen1](https://github.com/LexaCoronos/OnlineShopBot/blob/master/img/shopping109.png)
+![screen1](https://github.com/LexaCoronos/OnlineStore/blob/main/img/Cart.png)
 
 **Краткое описание:** Разработка онлайн-магазина по продаже товаров либо услуг с системой учёта и администрирования. Интегрируемая касса **WayForPay**.
 
